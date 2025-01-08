@@ -716,6 +716,5 @@ class CustomSelectInput extends HTMLElement {
     }
     
     customElements.define('combo-input', CustomSelectInput);
-    document.body.appendChild(document.createElement('combo-input'));
 
     
