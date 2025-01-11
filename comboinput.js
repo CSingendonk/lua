@@ -1,7 +1,8 @@
 /** Combo input element mixing selects with inputs 
- * @author CSingendonk &copy;
+ * @author CSingendonk &copy; 2025
  * @email *@*.*
  * @license MIT
+ * @source https://github.com/CSingendonk/htmlcombobox/tree/main
 */
 class CustomSelectInput extends HTMLElement {
         constructor() {
